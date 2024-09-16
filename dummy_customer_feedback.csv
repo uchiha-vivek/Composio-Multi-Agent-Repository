@@ -1,0 +1,6 @@
+user_id,username,feedback,rating,date
+1,user123,The app is really helpful for learning on the go!,4.5,2024-09-01
+2,learner456,"Great app, but sometimes it crashes when I try to access my profile.",3.0,2024-09-01
+3,student789,I love the interactive quizzes! They help me understand concepts better.,5.0,2024-09-02
+4,teacher101,The app lacks advanced features for tracking student progress.,2.5,2024-09-02
+5,educator202,Very user-friendly and intuitive design.,4.0,2024-09-03
