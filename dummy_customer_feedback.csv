@@ -1,6 +1,32 @@
-user_id,username,feedback,rating,date
+id,username,review,rating,date
 1,user123,The app is really helpful for learning on the go!,4.5,2024-09-01
 2,learner456,"Great app, but sometimes it crashes when I try to access my profile.",3.0,2024-09-01
 3,student789,I love the interactive quizzes! They help me understand concepts better.,5.0,2024-09-02
 4,teacher101,The app lacks advanced features for tracking student progress.,2.5,2024-09-02
 5,educator202,Very user-friendly and intuitive design.,4.0,2024-09-03
+6,professor303,"Solid app for teaching, but notifications can be inconsistent.",3.5,2024-09-04
+7,learner_pro,"The content is great, but I wish there were more offline options.",4.0,2024-09-05
+8,highschooler12,"Fun quizzes, but the timer is too strict for my liking.",3.8,2024-09-05
+9,collegestudent67,"Excellent resource for studying, but could use a dark mode.",4.2,2024-09-06
+10,mentor505,"I enjoy using the app with my students, but it needs better analytics.",3.7,2024-09-07
+11,grad_student19,"Love the detailed lessons! Helps me prepare for exams.",4.9,2024-09-08
+12,teachme456,"A great app for students, but could improve on personalized content.",4.3,2024-09-09
+13,tutor789,"My students love it, but it could use more collaborative features.",3.6,2024-09-09
+14,studyguru101,"Fantastic content, but the app is a bit slow at times.",4.1,2024-09-10
+15,knowledgeisfun,"I love how interactive the app is! Perfect for visual learners.",5.0,2024-09-11
+16,sciencegeek,"Great for science topics, but lacking in math exercises.",3.9,2024-09-11
+17,learner_2024,"The UI is clean, but the lack of advanced settings is disappointing.",3.4,2024-09-12
+18,homeworkhelper,"Perfect for helping with homework, but some answers are outdated.",3.7,2024-09-12
+19,learnathon,"Awesome for studying on the go! I can learn anywhere.",4.8,2024-09-13
+20,pro_teacher01,"The app has potential, but could use more tools for teachers.",2.9,2024-09-14
+21,quizmaster,"I enjoy the quizzes, but they repeat too often.",3.2,2024-09-14
+22,study_buddy,"A solid app for quick learning, but I wish it had more flashcards.",4.1,2024-09-15
+23,examprep_wiz,"It’s been a great companion for exam prep, but needs more practice tests.",4.6,2024-09-16
+24,historybuff,"Love the history sections! Could use more detailed explanations, though.",4.4,2024-09-16
+25,mathgenius,"App is good, but math sections need clearer explanations.",3.3,2024-09-17
+26,sciencepro,"Very informative, but I encountered bugs when loading videos.",3.8,2024-09-17
+27,techsavvy,"Good app for learning tech topics, but lacks depth in some areas.",3.5,2024-09-18
+28,studentlife123,"Easy to use, but it’s missing group study features.",3.0,2024-09-18
+29,reviewer2020,"The app is improving, but still has occasional crashes.",3.6,2024-09-19
+30,learn_faster,"I’ve seen good progress using the app! Highly recommend it.",4.7,2024-09-19
+--+-
